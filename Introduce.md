@@ -9,7 +9,7 @@ This is the profile of E02 class - organized by DCI
 - Agatha
 
 ## Teachers
-- [Paola](paola.md)
+- [Paola](Paola.md)
 
 ## 1 year training course student plan
 [Student plan](/Images/course_calendar.pdf) 
