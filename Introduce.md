@@ -2,7 +2,7 @@
 This is the profile of E02 class - organized by DCI
 
 ## E02 Students
-- Thanh Le
+- [Thanh Le](Thanh.md)
 - Linda
 - Igor
 - Basheer
